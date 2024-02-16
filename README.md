@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @rizqyrahhal
+import React from 'react';
 
-<!---
-rizqyrahhal/rizqyrahhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const ReadmeGenerator = ({ title, description, installation, usage }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      
+      <h2>Installation</h2>
+      <p>{installation}</p>
+      
+      <h2>Usage</h2>
+      <p>{usage}</p>
+    </div>
+  );
+};
+
+export default ReadmeGenerator;
