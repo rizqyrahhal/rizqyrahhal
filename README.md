@@ -9,5 +9,3 @@ Skills: REACT / JS / HTML / CSS / Git-Github
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rizqyrahhal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LinkedIn.com/in/rizqyrahhal/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqyrahhal&show_icons=true) 
