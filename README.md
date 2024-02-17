@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-[![rarahhal's 42 stats](https://badge.mediaplus.ma/greenbinary/rarahhal)](https://www.linkedin.com/in/rizqyrahhal)
+[![rarahhal's 42 stats](https://badge.mediaplus.ma/darkblue/rarahhal)](https://github.com/oakoudad/badge42)
 
 ### Front-end Developer
 
