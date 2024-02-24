@@ -1,7 +1,5 @@
 ### Hi there 👋,
 
-[![rarahhal's 42 stats](https://badge.mediaplus.ma/darkblue/rarahhal)](https://github.com/oakoudad/badge42)
-
 ### Front-end Developer
 
 I'm a passionate self-taught Programmer and Front-End web developer
